@@ -1,3 +1,5 @@
+# Mini Project: API Integration with “Pokémon World!”, PokeAPI
+
 Welcome to Pokémon World  PokeAPI Integration Project! 😎
 This project is a web application that provides a comprehensive Pokémon experience allowing users to explore Pokémon details of their choosing. It's built using HTML, CSS, JavaScript, and Bootstrap, and it integrates with the PokeAPI to fetch and display Pokémon information.
 
